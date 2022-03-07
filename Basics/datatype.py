@@ -8,9 +8,9 @@
 # print(y)
 # print(z)
 
-# x=y=z="Hello"
-# print(x)
-# print(y)
+x=y=z="Hello"
+print(x)
+print(y)
 
-x='Cheers'
-print ("Python makes people " +x)
+# x='Cheers'
+# print ("Python makes people " +x)
