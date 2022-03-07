@@ -11,6 +11,7 @@
 x=y=z="Hello"
 print(x)
 print(y)
+print(z)
 
 # x='Cheers'
 # print ("Python makes people " +x)
