@@ -1,5 +1,5 @@
 x='Cheers'
-def myfunc():
+def myfunc():#function
     x='Happy'
     print("Python makes people " +x)
 myfunc()
