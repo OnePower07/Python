@@ -1,7 +1,7 @@
 x=4
 y="Rishu"
 print (type(x))
-print (type(y))#datatype
+print (type(y))# result datatype 
 
 # x,y,z="Rishu","Priyanshu","Shremshth"
 # print(x)
