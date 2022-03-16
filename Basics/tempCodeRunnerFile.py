@@ -1,3 +1,1 @@
-x=y=z="Hello"
-print(x)
-print(y)
+x will be 1
